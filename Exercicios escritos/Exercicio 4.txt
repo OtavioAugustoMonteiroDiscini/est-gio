@@ -1,0 +1,1 @@
+Basta ligar o primeiro interruptor e deixar a luz acessa por um tempo. Depois, desliga ele, liga o segundo interruptor e vai a sala das lâmpadas. A lâmpada que estiver acessa, corresponde ao segundo interruptor. A lâmpada apagada que estiver quente, corresponde ao primeiro interruptor. A lâmpada que estiver apagada e fria, corresponde ao terceiro interruptor.
